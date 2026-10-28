@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         ws.setUseWideViewPort(true);
         ws.setLoadWithOverviewMode(true);
         ws.setSupportZoom(false);
-        ws.setUserAgentString("Mozilla/5.0 (Linux; Android 14; Android TV Build/UP1A.231005.007) Cobalt/25.0");
+        ws.setUserAgentString("Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.0 TV Safari/537.36");
 
         // resize UI page to fit screen
         ws.setTextZoom(100);
